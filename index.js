@@ -1,2 +1,5 @@
-<div>This is a new element.</div>
-<div>This is a new line of code.</div>
+<div>This is a new component.</div>
+<div>This is a new component.</div>
+<div>This is a new component.</div>
+<div>This is a new component.</div>
+
